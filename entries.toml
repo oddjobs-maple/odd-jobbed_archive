@@ -2,7 +2,7 @@
 title = "A Guide for an HP Warrior!"
 date = 2006-05-07
 media = ["text", "images"]
-subjects = ["guide", "HP warrior", "pre-BB"]
+subjects = ["guide", "HP warrior", "pre-BB", "GMS"]
 domain = "sleepywood.net"
 url_archived = "https://web.archive.org/web/20120614133139/http://sleepywood.net/forum/showthread.php?t=891610"
 
@@ -10,16 +10,25 @@ url_archived = "https://web.archive.org/web/20120614133139/http://sleepywood.net
 title = "STR Mage v3"
 date = 2007-03-04
 media = ["text", "images"]
-subjects = ["guide", "gish", "STR mage", "fire/poison", "pre-BB"]
+subjects = ["guide", "gish", "STR mage", "fire/poison", "pre-BB", "GMS"]
 domain = "hidden-street.net"
 url = "https://www.hidden-street.net/forum/threads/14161-STR-Mage-v3"
 url_archived = "https://web.archive.org/web/20201228092416/https://www.hidden-street.net/forum/threads/14161-STR-Mage-v3"
 
 [[entries]]
+title = "Brandini's Islander Guide"
+date = 2007-11-05
+media = ["text"]
+subjects = ["guide", "islander", "magelander", "pre-BB", "GMS"]
+domain = "mapletip.com"
+url = "https://forums.mapletip.com/index.php?/topic/111589-brandinis-islander-guide/"
+url_archived = "https://web.archive.org/web/20180124095048/https://forums.mapletip.com/index.php?/topic/111589-brandinis-islander-guide/"
+
+[[entries]]
 title = "War mage (STR Mage) Guide"
 date = 2007-12-05
 media = ["text"]
-subjects = ["guide", "STR mage", "cleric", "pre-BB"]
+subjects = ["guide", "STR mage", "cleric", "pre-BB", "GMS"]
 domain = "mapletip.com"
 url = "https://forums.mapletip.com/index.php?/topic/113500-war-mage-str-mage-guide/"
 url_archived = "https://web.archive.org/web/20140708111804/https://forums.mapletip.com/index.php?/topic/113500-war-mage-str-mage-guide/"
@@ -28,7 +37,7 @@ url_archived = "https://web.archive.org/web/20140708111804/https://forums.maplet
 title = "3 STR Mages + 1 Beginner / 1 Warrior = KPQ Ownage"
 date = 2008-01-19
 media = ["video", "audio"]
-subjects = ["STR mage", "permabeginner", "PQ", "pre-BB"]
+subjects = ["STR mage", "permabeginner", "PQ", "pre-BB", "GMS"]
 domain = "youtube.com"
 url = "https://www.youtube.com/watch?v=j1RRtSa_C9Q"
 
@@ -36,7 +45,7 @@ url = "https://www.youtube.com/watch?v=j1RRtSa_C9Q"
 title = "A Tribute to Strength Mages (HematicBlade's Story)"
 date = 2008-06-20
 media = ["video", "audio"]
-subjects = ["STR mage", "pre-BB"]
+subjects = ["STR mage", "pre-BB", "GMS"]
 domain = "youtube.com"
 url = "https://www.youtube.com/watch?v=ciQHAq2ckDo"
 
@@ -44,7 +53,7 @@ url = "https://www.youtube.com/watch?v=ciQHAq2ckDo"
 title = "The Complete HP Warrior guide from Levels 1-30"
 date = 2008-06-27
 media = ["text"]
-subjects = ["guide", "HP warrior", "pre-BB"]
+subjects = ["guide", "HP warrior", "pre-BB", "GMS"]
 domain = "mapletip.com"
 url = "https://forums.mapletip.com/index.php?/topic/124215-the-complete-hp-warrior-guide-from-levels-1-30/"
 url_archived = "https://web.archive.org/web/20140708143118/https://forums.mapletip.com/index.php?/topic/124215-the-complete-hp-warrior-guide-from-levels-1-30/"
@@ -53,16 +62,32 @@ url_archived = "https://web.archive.org/web/20140708143118/https://forums.maplet
 title = "Readers' Extraordinary Permanent Beginner Guide"
 date = 2009-11-25
 media = ["text"]
-subjects = ["guide", "permabeginner", "islander", "camper", "pre-BB"]
-domain = ["mapletip.com"]
+subjects = ["guide", "permabeginner", "islander", "camper", "pre-BB", "GMS"]
+domain = "mapletip.com"
 url = "https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/"
 url_archived = "https://web.archive.org/web/20200806122805/https://forums.mapletip.com/index.php?/topic/139169-readers-extraordinary-permanent-beginner-guide/"
+
+[[entries]]
+title = "Complete Islander Guide"
+date = 2010-03-20
+media = ["text"]
+subjects = ["guide", "islander", "pre-BB", "GMS"]
+domain = "basilmarket.com"
+url_archived = "https://web.archive.org/web/20190822160827/https://www.basilmarket.com/Complete-Islander-Guide-Thread-bqpNW-1"
+
+[[entries]]
+title = "Table - MapleStory Europe's Number 1 Islander"
+date = 2010-04-22
+media = ["video", "audio"]
+subjects = ["islander", "pre-BB", "EMS"]
+domain = "youtube.com"
+url = "https://www.youtube.com/playlist?list=PL1F64856377524CD8"
 
 [[entries]]
 title = "DuFyy's Beginner Guide"
 date = 2010-06-20
 media = ["text"]
-subjects = ["guide", "permabeginner", "islander", "camper", "pre-BB"]
+subjects = ["guide", "permabeginner", "islander", "camper", "pre-BB", "GMS"]
 domain = "mapleanime.com"
 url = "https://www.mapleanime.com/forum/viewtopic.php?t=6216"
 url_archived = "https://web.archive.org/web/20201228114125/https://www.mapleanime.com/forum/viewtopic.php?t=6216"
@@ -71,7 +96,7 @@ url_archived = "https://web.archive.org/web/20201228114125/https://www.mapleanim
 title = "MapleStory GMS - HP Warrior tanks 50k damage"
 date = 2011-06-10
 media = ["video", "audio"]
-subjects = ["HP warrior", "post-BB"]
+subjects = ["HP warrior", "post-BB", "GMS"]
 domain = "youtube.com"
 url = "https://www.youtube.com/watch?v=xjEutlW_5Nc"
 
@@ -79,7 +104,7 @@ url = "https://www.youtube.com/watch?v=xjEutlW_5Nc"
 title = "Islander"
 date = 2011-11-27
 media = ["text"]
-subjects = ["islander", "camper", "post-BB", "pre-BB"]
+subjects = ["islander", "camper", "post-BB", "pre-BB", "GMS"]
 domain = "maplewiki.net"
 url = "https://web.archive.org/web/20120418085300/https://maplewiki.net/index.php?title=Islander"
 
@@ -87,25 +112,52 @@ url = "https://web.archive.org/web/20120418085300/https://maplewiki.net/index.ph
 title = "Str Mages?"
 date = 2012-11-16
 media = ["text"]
-subjects = ["general", "STR mage", "post-BB"]
+subjects = ["general", "STR mage", "post-BB", "GMS"]
 domain = "reddit.com"
 url = "https://old.reddit.com/r/Maplestory/comments/13bn69/str_mages/"
 url_archived = "https://web.archive.org/web/20201228101000/https://old.reddit.com/r/Maplestory/comments/13bn69/str_mages/"
 
 [[entries]]
+title = "Islander Community Rankings / Guides"
+date = 2014-12-08
+media = ["text", "images"]
+subjects = ["islander", "magelander", "camper", "guide", "pre-BB", "MapleRoyals"]
+domain = "mapleroyals.com"
+url = "https://mapleroyals.com/forum/threads/islander-community-rankings-guides.17081/"
+url_archived = "https://web.archive.org/web/20201230115238/https://mapleroyals.com/forum/threads/islander-community-rankings-guides.17081/"
+
+[[entries]]
 title = "2015: General Odd-Job Discussion"
 date = 2015-05-18
 media = ["text"]
-subjects = ["general", "post-BB"]
+subjects = ["general", "post-BB", "GMS"]
 domain = "reddit.com"
 url = "https://old.reddit.com/r/Maplestory/comments/36cdae/2015_general_oddjob_discussion/"
 url_archived = "https://web.archive.org/web/20201228085257/https://old.reddit.com/r/Maplestory/comments/36cdae/2015_general_oddjob_discussion/"
 
 [[entries]]
+title = "Islander Community Thread"
+date = 2015-09-28
+media = ["text"]
+subjects = ["islander", "magelander", "guide", "pre-BB", "MapleLegends"]
+domain = "maplelegends.com"
+url = "https://forum.maplelegends.com/index.php?threads/islander-community-thread.5922/"
+url_archived = "https://web.archive.org/web/20201230122138/https://forum.maplelegends.com/index.php?threads/islander-community-thread.5922/"
+
+[[entries]]
+title = "Does anyone remember Islander Beginners?"
+date = 2015-12-24
+media = ["text", "images"]
+subjects = ["islander", "pre-BB", "post-BB", "GMS", "EMS"]
+domain = "reddit.com"
+url = "https://old.reddit.com/r/Maplestory/comments/3y4qvd/does_anyone_remember_islander_beginners/"
+url_archived = "https://web.archive.org/web/20201230163024/https://old.reddit.com/r/Maplestory/comments/3y4qvd/does_anyone_remember_islander_beginners/"
+
+[[entries]]
 title = "KMS STR Mage Screen"
 date = 2017-05-29
 media = ["images", "text"]
-subjects = ["STR mage", "fire/poison", "pre-BB"]
+subjects = ["STR mage", "fire/poison", "pre-BB", "KMS"]
 domain = "basilmarket.com"
 url_archived = "https://web.archive.org/web/20180311145509/https://www.basilmarket.com/KMS-STR-Mage-Screen-bbZzO"
 
@@ -113,7 +165,7 @@ url_archived = "https://web.archive.org/web/20180311145509/https://www.basilmark
 title = "KMS permanent beginner ranker(2003-2005) Screen"
 date = 2017-05-29
 media = ["images", "text"]
-subjects = ["permabeginner", "pre-BB"]
+subjects = ["permabeginner", "pre-BB", "KMS"]
 domain = "basilmarket.com"
 url_archived = "https://web.archive.org/web/20180320175401/http://www.basilmarket.com/KMS-permanent-beginner-ranker-2003-2005--Screen-bbZzP"
 
@@ -121,7 +173,7 @@ url_archived = "https://web.archive.org/web/20180320175401/http://www.basilmarke
 title = "The pioneer of poison mist str mage(KMS) Screen"
 date = 2017-06-01
 media = ["images", "text"]
-subjects = ["STR mage", "fire/poison", "pre-BB"]
+subjects = ["STR mage", "fire/poison", "pre-BB", "KMS"]
 domain = "basilmarket.com"
 url_archived = "https://web.archive.org/web/20170809123316/http://www.basilmarket.com/The-pioneer-of-poison-mist-str-mage-KMS--Screen-bbZzQ"
 
@@ -129,6 +181,15 @@ url_archived = "https://web.archive.org/web/20170809123316/http://www.basilmarke
 title = "[KMS] 2017 Maplestory Camper - The last active Islander"
 date = 2017-12-19
 media = ["video", "audio"]
-subjects = ["camper", "post-BB"]
+subjects = ["camper", "post-BB", "KMS"]
 domain = "youtube.com"
 url = "https://www.youtube.com/watch?v=s9SXRQGwvRA"
+
+[[entries]]
+title = "Producer's Permanent Beginner Guide"
+date = 2019-06-11
+media = ["text"]
+subjects = ["guide", "permabeginner", "post-BB", "GMS"]
+domain = "dexless.com"
+url = "https://dexless.com/guides/producers-permanent-beginner-guide.128/"
+url_archived = "https://web.archive.org/web/20201230122744/https://dexless.com/guides/producers-permanent-beginner-guide.128/"
