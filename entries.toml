@@ -132,7 +132,7 @@ date = 2011-11-27
 media = ["text"]
 subjects = ["islander", "camper", "post-BB", "pre-BB", "GMS"]
 domain = "maplewiki.net"
-url = "https://web.archive.org/web/20120418085300/https://maplewiki.net/index.php?title=Islander"
+url_archived = "https://web.archive.org/web/20120418085300/https://maplewiki.net/index.php?title=Islander"
 
 [[entries]]
 title = "Str Mages?"
