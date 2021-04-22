@@ -386,3 +386,11 @@ subjects = ["guide", "general", "pre-BB", "JoblessMS"]
 domain = "bladenode.com"
 url = "http://server72.bladenode.com/?base=main&page=guide"
 url_archived = "https://web.archive.org/web/20210101095506/http://server72.bladenode.com/?base=main&page=guide"
+
+[[entries]]
+title = "The special beginners of Maplestory"
+date = 2021-04-16
+media = ["video", "audio"]
+subjects = ["permabeginner", "post-BB", "GMS"]
+domain = "youtube.com"
+url = "https://www.youtube.com/watch?v=d4O5jouqay4"
