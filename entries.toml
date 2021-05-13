@@ -60,6 +60,15 @@ domain = "youtube.com"
 url = "https://www.youtube.com/watch?v=j1RRtSa_C9Q"
 
 [[entries]]
+title = "Top Beginner Archive"
+date = 2008-01-30
+media = ["text"]
+subjects = ["camper", "islander", "permabeginner", "rankings", "pre-BB", "GMS"]
+domain = "tapatalk.com"
+url = "https://www.tapatalk.com/groups/permbeginners/top-beginner-archive-t2.html"
+url_archived = "https://web.archive.org/web/20210513110934/https://www.tapatalk.com/groups/permbeginners/top-beginner-archive-t2.html"
+
+[[entries]]
 title = "A Tribute to Strength Mages (HematicBlade's Story)"
 date = 2008-06-20
 media = ["video", "audio"]
@@ -252,7 +261,15 @@ url_archived = "https://web.archive.org/web/20160716031114/http://mapleroyals.co
 title = "Islander Community Rankings / Guides"
 date = 2014-12-08
 media = ["text", "images"]
-subjects = ["islander", "magelander", "camper", "guide", "pre-BB", "MapleRoyals"]
+subjects = [
+    "islander",
+    "magelander",
+    "camper",
+    "guide",
+    "rankings",
+    "pre-BB",
+    "MapleRoyals",
+]
 domain = "mapleroyals.com"
 url = "https://mapleroyals.com/forum/threads/islander-community-rankings-guides.17081/"
 url_archived = "https://web.archive.org/web/20201230115238/https://mapleroyals.com/forum/threads/islander-community-rankings-guides.17081/"
@@ -355,7 +372,7 @@ url_archived = "https://web.archive.org/web/20201230122744/https://dexless.com/g
 title = "JoblessMS Rankings"
 date = 2019-12-30
 media = ["text", "images"]
-subjects = ["general", "pre-BB", "JoblessMS"]
+subjects = ["rankings", "pre-BB", "JoblessMS"]
 domain = "bladenode.com"
 url = "http://server72.bladenode.com/?base=main&page=rankings"
 url_archived = "https://web.archive.org/web/20191230014243/http://server72.bladenode.com/?base=main&page=rankings"
