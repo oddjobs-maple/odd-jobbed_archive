@@ -77,6 +77,15 @@ domain = "youtube.com"
 url = "https://www.youtube.com/watch?v=ciQHAq2ckDo"
 
 [[entries]]
+title = "Islander's: Islander Guide"
+date = 2008-06-23
+media = ["text", "images"]
+subjects = ["islander", "magelander", "pre-BB", "GMS"]
+domain = "mapletip.com"
+url = "https://forums.mapletip.com/index.php?/topic/123900-islanders-islander-guide/"
+url_archived = "https://web.archive.org/web/20211125164341/https://forums.mapletip.com/index.php?/topic/123900-islanders-islander-guide/"
+
+[[entries]]
 title = "The Complete HP Warrior guide from Levels 1-30"
 date = 2008-06-27
 media = ["text"]
